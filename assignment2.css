@@ -1,0 +1,337 @@
+/* header start*/
+.aad{
+    padding: 10px;
+}
+.fas,.far{
+    color: rgb(31, 207, 31);
+    font-size: 12px;
+}
+.ad{
+    text-align: right;
+}
+.uptext{
+    font-size:13px;
+    display: inline;
+    text-align: right;
+}
+/* header end*/
+/*search nav start*/
+.search{
+    background-color: rgb(245, 243, 243);
+    padding: 30px;
+}
+.ips{
+    background-color: white;
+    border-radius: 20px;
+    border-style: none;  
+}
+.ipss{
+    border-style:none;
+    border-radius: 20px; 
+}
+.ipp{
+   float: right;
+   padding: 9px;
+}
+.crt{
+    background-color: white;
+    border-radius: 20px;
+    font-display: black;
+    padding: 7px;
+    text-align: center;
+}
+
+.crt p{
+    display: inline;
+}
+/*search nav end*/
+.fo{
+    background-color: rgb(72, 218, 14);
+    padding: 20px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top:1px;
+    position: absolute;
+    color: white;
+}
+#fru{
+    font-family: 'algerian regular','matura mt script capitals regular' ;
+    font-size: 2em;
+    padding-top: 40px;
+}
+/*nav start after search*/
+.frudivm{
+   margin-top: 80px;
+   margin-bottom:30px;
+}
+.frudiv{
+    text-transform: uppercase;
+    font-family:'claredon bt bold';
+    font-size: 0.67em;
+    text-align: right;
+
+}
+.frudiv a{
+    color:black;
+}
+.frudiv a:link{
+    color:black;
+    text-decoration:none;
+}
+.frudiv a:hover{
+    background-color: rgb(72, 218, 14);
+    border-radius: 20px;
+    padding: 10px 1px 10px 1px;
+    color: white;
+}
+/* writing on slides*/
+.slidewrite{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+}
+#swop{
+    color: white;
+    margin: 0px 0px -20px 0px;
+
+}
+#swsp{
+    color:white;
+
+}
+#swtp{
+    color:white;
+    border: 5px solid yellow;
+    margin: 0px 360px 0px 360px;
+    padding: 10px;
+    
+    
+
+}
+#swoh{
+    color:rgb(255, 255, 0);
+    font-size: 9em;
+
+}
+/* end slide*/
+.dot{
+   margin-top: 40px;
+
+}
+
+.bus{
+    border: 2px dotted green; 
+    border-radius: 50%;
+    padding: 45px;
+    font-size: 2em;
+}
+.wdivf{
+    float: right;
+    margin: 30px 45px 0 0;
+}
+.wdivs{
+    float: right;
+    margin: 30px 10px 0 0;
+}
+.wdivt{
+    float: right;
+    margin: 30px 30px 0 0;
+}
+.bfh{
+    font-size: 1.4em;
+    color: grey;   
+}
+.bfp{
+    font-size: 1em;
+    color: grey;
+}
+/*offers start*/
+.so{
+    margin-top:50px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+.orangefruit{
+    background-image: url("src/ad1-1.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 1.6em;
+}
+.orangefruitone{
+    margin-top:130px;
+    margin-bottom: 40px;
+}
+.oft{
+    margin-bottom: 140px;
+    border:5px solid yellow;
+    border-radius: 50px;
+    margin-left:80px;
+    margin-right:120px;
+    padding-bottom:7px;
+    background-color: rgb(56, 238, 56);
+}
+div .centerone{
+    background-image: url("src/ad2.jpg");
+    text-align:center;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 1.3em;
+    padding-bottom:15px;
+}
+.centeronep{
+    padding-top:90px;
+}
+div .ctpp{
+    border:5px solid white;
+    border-radius: 50px;
+    margin-left:100px;
+    margin-right:100px;
+    padding-bottom:7px;   
+}
+.centertwo{
+    background-image: url("src/ad3.jpg");
+    text-align: center;
+    color: white;
+    font-size: 1.3em;
+    padding-bottom: 20px;
+}
+.centertwoop{
+    padding-top:90px;
+    
+}
+.centertwotp{ 
+    border:5px solid white;
+    border-radius: 50px;
+    margin-left:100px;
+    margin-right:100px;
+    padding-bottom:7px;
+}
+.stfruit{
+    background-image: url("src/ad4.jpg");
+    text-align: center;
+    color: white;
+    font-size: 1.6em;
+    padding-bottom: 130px;
+}
+.stfruitop{
+    padding-top:130px;
+    padding-bottom: 10px;
+}
+.stfruittp{
+    
+    border:5px solid white;
+    border-radius: 50px;
+    margin-left:110px;
+    margin-right:90px;
+    padding-bottom:7px;
+}
+/*latest news start*/
+.lnop{
+    font-size:2em;
+    text-align:center;
+    
+}
+.lnm{
+    margin-left: 0px;
+}
+.lnbo{
+    margin-left:30px;
+
+}
+.lnbs{
+    margin-left:-40px;
+
+}
+
+ 
+.lnparao{
+    border:1px solid  rgb(56, 238, 56);
+    border-radius: 25px;
+    background-color:  rgb(56, 238, 56);
+    color:white;
+    padding-left:20px;
+    margin-right:420px;
+    margin-top:30px;
+}
+.lnparat{
+    border:1px solid  rgb(56, 238, 56);
+    border-radius: 25px;
+    background-color:  rgb(56, 238, 56);
+    color:white;
+    padding-left:20px;
+    margin-right:420px;
+}
+/* ifram start */
+.lu{
+    text-align:center;
+    border-top: 1px solid grey;
+}
+/* footer */
+.footermain{
+    clear: both;
+    background-color: rgba(29, 27, 27, 0.849);
+    margin-top: 300px;
+    padding-top: 40px;
+}
+.fh{
+    color: white;
+    text-transform: uppercase;
+}
+.ffp{
+    display: inline;
+    color: grey;
+}
+.cu{
+    color: rgb(31, 207, 31);
+}
+.ffl{
+    color: grey;
+    list-style-type: none;
+}
+li::before {
+    content: "•"; /* Insert content that looks like bullets */
+    padding-right: 10px;
+    color: rgb(31, 207, 31); /* Or a color you prefer */
+}
+/* follow us and payment method */
+.fupm{
+    border-top:1px solid black;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.fu{
+    display: inline;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom:30px;
+}
+.fui{
+    font-size: 30px;
+    display: inline;
+    margin: 10px;
+}
+.one{
+    width: 35px;
+    height: 17px;
+}
+/* copyright */
+.copy{
+    text-align: center;
+}
+.pptc{
+    text-align: center;
+    color: rgb(14, 198, 223);
+   
+}
+.pp{
+    display: inline;
+    padding: 3px;
+}
+.tc{
+    display: inline;
+    border-left: 2px solid rgb(10, 207, 10);
+    padding: 3px;
+}
+  

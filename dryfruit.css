@@ -1,0 +1,174 @@
+/* header start*/
+.aad{
+    padding: 10px;
+}
+.fas,.far{
+    color: rgb(31, 207, 31);
+    font-size: 12px;
+}
+.ad{
+    text-align: right;
+}
+.uptext{
+    font-size:13px;
+    display: inline;
+    text-align: right;
+}
+/* header end*/
+/*search nav start*/
+.search{
+    background-color: rgb(245, 243, 243);
+    padding: 30px;
+}
+.ips{
+    background-color: white;
+    border-radius: 20px;
+    border-style: none;  
+}
+.ipss{
+    border-style:none;
+    border-radius: 20px; 
+}
+.ipp{
+   float: right;
+   padding: 9px;
+}
+.crt{
+    background-color: white;
+    border-radius: 20px;
+    font-display: black;
+    padding: 7px;
+    text-align: center;
+}
+
+.crt p{
+    display: inline;
+}
+/*search nav end*/
+.fo{
+    background-color: rgb(72, 218, 14);
+    padding: 20px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top:1px;
+    position: absolute;
+    color: white;
+}
+#fru{
+    font-family: 'algerian regular','matura mt script capitals regular' ;
+    font-size: 2em;
+    padding-top: 40px;
+}
+/*nav start after search*/
+.frudivm{
+   margin-top: 80px;
+   margin-bottom:30px;
+}
+.frudiv{
+    text-transform: uppercase;
+    font-family:'claredon bt bold';
+    font-size: 0.67em;
+    text-align: right;
+
+}
+.frudiv a{
+    color:black;
+}
+.frudiv a:link{
+    color:black;
+    text-decoration:none;
+}
+.frudiv a:hover{
+    background-color: rgb(72, 218, 14);
+    border-radius: 20px;
+    padding: 10px 1px 10px 1px;
+    color: white;
+}
+/* fresh fruits start */
+.fflo{
+    color: rgb(72, 218, 14);
+    text-align: center;
+    font-size: 40px;
+
+}
+.ord{
+    border-top: 2px solid grey;
+}
+.ordb{
+    margin-top:30px;
+    margin-left: 80px;
+    padding: 5px 20px 5px 20px;
+    border: none;
+    color:white;
+    background-color: rgb(96, 96, 219);
+    border-radius: 5px;
+    box-shadow: 9px rgb(96, 96, 219) ;
+}
+/* fresh fruits ens */
+/* footer */
+.footermain{
+    clear: both;
+    background-color: rgba(29, 27, 27, 0.849);
+    margin-top: 40px;
+    padding-top: 40px;
+}
+.fh{
+    color: white;
+    text-transform: uppercase;
+}
+.ffp{
+    display: inline;
+    color: grey;
+}
+.cu{
+    color: rgb(31, 207, 31);
+}
+.ffl{
+    color: grey;
+    list-style-type: none;
+}
+li::before {
+    content: "•"; /* Insert content that looks like bullets */
+    padding-right: 10px;
+    color: rgb(31, 207, 31); /* Or a color you prefer */
+}
+/* follow us and payment method */
+.fupm{
+    border-top:1px solid black;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.fu{
+    display: inline;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom:30px;
+}
+.fui{
+    font-size: 30px;
+    display: inline;
+    margin: 10px;
+}
+.one{
+    width: 35px;
+    height: 17px;
+}
+/* copyright */
+.copy{
+    text-align: center;
+}
+.pptc{
+    text-align: center;
+    color: rgb(14, 198, 223);
+   
+}
+.pp{
+    display: inline;
+    padding: 3px;
+}
+.tc{
+    display: inline;
+    border-left: 2px solid rgb(10, 207, 10);
+    padding: 3px;
+}
